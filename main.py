@@ -4,7 +4,7 @@ from datetime import datetime
 
 
 app=Flask(__name__)
-app.secret_key = '@A*Laxman!@$#12!^&77HG'
+app.secret_key = '@A*Ajay!@$#12!^&77HG'
 
 config = {
     'host': 'localhost',
